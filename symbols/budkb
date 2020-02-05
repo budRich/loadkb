@@ -2,7 +2,6 @@
 // `alphanumeric_keys' and `modifier_keys' is which part that is modified
 // https://unix.stackexchange.com/a/506185
 // https://askubuntu.com/q/1044474
-// syntax:ssDslash
 
 default alphanumeric_keys modifier_keys
 xkb_symbols "base" {
@@ -40,3 +39,4 @@ xkb_symbols "custom" {
   // key <AE04> { [ NoSymbol, NoSymbol, dollar, onequarter ] }; // "4"
 };
 
+// syntax:ssDslash
