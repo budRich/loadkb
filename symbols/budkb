@@ -3,6 +3,7 @@
 // https://unix.stackexchange.com/a/506185
 // https://askubuntu.com/q/1044474
 
+
 default alphanumeric_keys modifier_keys
 xkb_symbols "base" {
     // typo includes lots of symbols for 
